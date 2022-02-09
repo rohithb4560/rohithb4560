@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohithb4560
+- 👋 Hi, I’m Rohith Bellamkonda
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me - Whatsapp-(+91) 8770181498
