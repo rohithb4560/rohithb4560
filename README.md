@@ -6,8 +6,6 @@ Hey there!  I'm Rohith Bellamkonda.
  
 🙂   Exploring new technologies and learning data structures and algorithms.
 
-🎓   Learning Full Stack Web Development Javascript and its frameworks at Masai School
-
 💼   I aspire to work as a full stack web developer.
 
 🌱   Learning more about AWS, MongoDB, Python and Typscript.
