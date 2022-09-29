@@ -8,7 +8,7 @@ Hey there!  I'm Rohith Bellamkonda.
 
 💼   I aspire to work as a full stack web developer.
 
-🌱   Learning more about AWS, MongoDB, Python and Typscript.
+🌱   Learning more about AWS, MongoDB and Typscript.
 
 👯‍♂️   I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects
 
